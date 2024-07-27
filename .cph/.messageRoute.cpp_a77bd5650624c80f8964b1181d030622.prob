@@ -1,0 +1,1 @@
+{"name":"Local: messageRoute","url":"e:\\cses\\messageRoute.cpp","tests":[{"id":1721925209576,"input":"10 20\n8 9\n6 7\n9 10\n7 9\n3 4\n5 8\n6 8\n1 2\n5 7\n8 10\n2 3\n1 4\n7 8\n5 6\n6 9\n1 3\n4 5\n3 6\n3 5\n7 10","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cses\\messageRoute.cpp","group":"local","local":true}

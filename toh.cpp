@@ -34,6 +34,5 @@ int main(){
     cin>>n;
     cout<<pow(2,n)-1<<endl;
     f(n,1,3,2);
-    
     return 0;
 }
