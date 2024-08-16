@@ -1,0 +1,1 @@
+{"name":"Local: FlightDiscount","url":"e:\\cses\\FlightDiscount.cpp","tests":[{"id":1723803191340,"input":"3 4\n1 2 3\n2 3 1\n1 3 7\n2 1 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cses\\FlightDiscount.cpp","group":"local","local":true}
