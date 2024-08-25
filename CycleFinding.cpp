@@ -53,7 +53,12 @@ int main(){
           edge.push_back({u,v,c});
     
     }
-  
+    /*
+    for(int i=1;i<=n;i++){
+      edge.push_back({0,i,0});
+    }
+    what if graph has multiple components
+    */
  
     vector<ll> d(n+1,1e18);
     

@@ -1,0 +1,1 @@
+{"name":"Local: planetAndKingdom","url":"e:\\cses\\planetAndKingdom.cpp","tests":[{"id":1724585446140,"input":"5 6\n1 2\n2 3\n3 1\n3 4\n4 5\n5 4","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\cses\\planetAndKingdom.cpp","group":"local","local":true}
